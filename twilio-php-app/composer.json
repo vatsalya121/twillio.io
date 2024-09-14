@@ -1,0 +1,11 @@
+{
+    "name": "vatsalyaparashar/twilio-php-app",
+    "require": {
+        "twilio/sdk": "^8.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vatsalyaparashar\\TwilioPhpApp\\": "src/"
+        }
+    }
+}
